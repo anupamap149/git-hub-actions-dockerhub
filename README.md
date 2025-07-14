@@ -45,7 +45,7 @@ cd workflows
 touch image-build.yml
 
 
-<img width="1876" height="1264" alt="Image" src="https://github.com/user-attachments/assets/ba93578b-5bcb-4025-8446-270e428dab5c" />
+<img width="855" height="474" alt="Image" src="https://github.com/user-attachments/assets/842dcf9d-9d23-4180-9034-2c73afd34987" />
 
 #### below find the dockerfile
 
